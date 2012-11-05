@@ -1,0 +1,11 @@
+#######################################
+	Description of http_request
+	Person in charge:wangyongle
+	Duty:Write the code of httprequset
+	Document author:wangyongle
+	Date:2012-10-24
+
+#######################################
+Design instruction of http_request
+	Send the request to testcase
+	Receive the response

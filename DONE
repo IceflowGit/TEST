@@ -1,0 +1,11 @@
+########################################
+        Description of httprequest
+        Person in charge：wangyongle
+        Duty：write the code of httprequest
+        Document author：wangyongle
+        Date：2012-10-24
+
+#######################################
+1.Send request
+2.Receive response
+3.The response write to file

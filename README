@@ -1,0 +1,12 @@
+########################################
+	Description of httprequest
+	Person in charge：wangyongle
+	Duty：write the code of httprequest
+	Document author：wangyongle
+	Date：2012-10-24
+
+#######################################
+1、Function：
+	send request
+2、Instruction for use：
+	python send_post(get)_request.py
